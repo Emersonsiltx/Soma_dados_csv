@@ -1,2 +1,1 @@
-# Soma_dados_csv
- 
+Programa criado para soma de arquivo CSV
